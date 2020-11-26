@@ -1,0 +1,7 @@
+C:\Users\Beto\source\repos\Menu_Ejercicios_Switch\Menu_Ejercicios_Switch\bin\Debug\Menu_Ejercicios_Switch.exe.config
+C:\Users\Beto\source\repos\Menu_Ejercicios_Switch\Menu_Ejercicios_Switch\bin\Debug\Menu_Ejercicios_Switch.exe
+C:\Users\Beto\source\repos\Menu_Ejercicios_Switch\Menu_Ejercicios_Switch\bin\Debug\Menu_Ejercicios_Switch.pdb
+C:\Users\Beto\source\repos\Menu_Ejercicios_Switch\Menu_Ejercicios_Switch\obj\Debug\Menu_Ejercicios_Switch.csprojAssemblyReference.cache
+C:\Users\Beto\source\repos\Menu_Ejercicios_Switch\Menu_Ejercicios_Switch\obj\Debug\Menu_Ejercicios_Switch.csproj.CoreCompileInputs.cache
+C:\Users\Beto\source\repos\Menu_Ejercicios_Switch\Menu_Ejercicios_Switch\obj\Debug\Menu_Ejercicios_Switch.exe
+C:\Users\Beto\source\repos\Menu_Ejercicios_Switch\Menu_Ejercicios_Switch\obj\Debug\Menu_Ejercicios_Switch.pdb
